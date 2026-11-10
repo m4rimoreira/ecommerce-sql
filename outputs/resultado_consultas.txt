@@ -1,0 +1,82 @@
+
+============================================================
+01_faturamento_categoria
+============================================================
+  categoria  total_pedidos  total_itens  faturamento
+Eletrônicos            324          865   1602060.59
+   Esportes            344          876    507648.39
+     Roupas            271          695    138204.97
+       Casa            202          460    120094.05
+     Livros            211          471     44542.17
+
+============================================================
+02_top_clientes
+============================================================
+           nome estado  total_pedidos  total_gasto
+ Carla Oliveira     RJ              7     41931.23
+    Diego Souza     RS              5     40280.54
+ João Rodrigues     RJ              8     40037.89
+  Paula Almeida     PR              4     36754.87
+  Larissa Silva     SC              5     36009.82
+    Sofia Silva     DF              7     34866.55
+   Wagner Costa     BA              7     34729.63
+    Bruno Costa     SP             10     34465.82
+Henrique Santos     RS              6     31163.99
+Isabela Almeida     SP              4     30541.23
+
+============================================================
+03_ticket_medio_estado
+============================================================
+estado  pedidos  ticket_medio
+    PR       40       4524.08
+    SP       75       3992.22
+    PE       64       3891.26
+    RS       76       3800.09
+    BA       71       3793.73
+    RJ       81       3509.62
+    SC       73       3392.18
+    MG       44       3298.28
+    DF       78       3254.37
+    CE       71       2733.72
+
+============================================================
+04_taxa_recompra
+============================================================
+            nome  qtd_pedidos     perfil
+     Bruno Costa           10 Recorrente
+  João Rodrigues            8 Recorrente
+     Sofia Silva            7 Recorrente
+  Carla Oliveira            7 Recorrente
+    Ana Ferreira            7 Recorrente
+ Otávio Oliveira            7 Recorrente
+      Ana Santos            7 Recorrente
+    Wagner Costa            7 Recorrente
+  Felipe Almeida            7 Recorrente
+  Wagner Almeida            7 Recorrente
+     Carla Silva            7 Recorrente
+      Paula Lima            7 Recorrente
+     Bruno Silva            6 Recorrente
+  Bruno Ferreira            6 Recorrente
+  Wagner Pereira            6 Recorrente
+    Rafael Souza            6 Recorrente
+ Natália Pereira            6 Recorrente
+   João Ferreira            6 Recorrente
+Gabriela Pereira            6 Recorrente
+    Marcos Silva            6 Recorrente
+
+============================================================
+05_faturamento_mensal
+============================================================
+    mes  faturamento
+2024-01    160940.94
+2024-02    200302.96
+2024-03    200267.74
+2024-04    147646.64
+2024-05    203645.95
+2024-06    224656.99
+2024-07    203731.34
+2024-08    179925.99
+2024-09    210307.44
+2024-10    258737.01
+2024-11    200152.02
+2024-12    222235.15
